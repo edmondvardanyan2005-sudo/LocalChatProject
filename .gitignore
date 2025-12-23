@@ -1,0 +1,123 @@
+############################################
+# Visual Studio / Visual C++
+############################################
+
+# IDE folders
+.vs/
+.vscode/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.rsuser
+
+# Visual Studio database files
+*.VC.db
+*.VC.VC.opendb
+*.db
+*.opendb
+
+# IntelliSense / Precompiled headers
+ipch/
+*.ipch
+*.pch
+
+# Build results
+Debug/
+Release/
+x64/
+x86/
+ARM/
+ARM64/
+Build/
+build/
+out/
+
+# MSVC intermediate files
+*.obj
+*.iobj
+*.ipdb
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.log
+
+# Executables and libraries
+*.exe
+*.dll
+*.lib
+*.exp
+*.app
+*.out
+
+############################################
+# CMake
+############################################
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+############################################
+# Qt (if you use Qt)
+############################################
+moc_*.cpp
+moc_*.h
+ui_*.h
+qrc_*.cpp
+*.pro.user
+*.qmlc
+*.jsc
+
+############################################
+# Clang / GCC
+############################################
+*.o
+*.a
+*.so
+*.dSYM/
+
+############################################
+# Logs & temp files
+############################################
+*.log
+*.tmp
+*.temp
+*.swp
+*.bak
+
+############################################
+# OS generated
+############################################
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+############################################
+# Archives
+############################################
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+############################################
+# Coverage / profiling
+############################################
+*.gcda
+*.gcno
+*.gcov
+
+############################################
+# Python (sometimes used for scripts)
+############################################
+__pycache__/
+*.pyc
+
+############################################
+# Misc
+############################################
+.cache/
